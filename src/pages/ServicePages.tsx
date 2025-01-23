@@ -1,4 +1,3 @@
-import React from "react";
 import { Box, Typography, Grid, Button, Card, CardContent } from "@mui/material";
 
 const ServicePage = () => {
