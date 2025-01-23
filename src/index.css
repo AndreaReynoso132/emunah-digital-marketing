@@ -1,0 +1,25 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #F5F5DC; /* Fondo Beige */
+  color: #333333; /* Texto principal */
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}
+
+h1, h2, h3 {
+  color: #333333;
+}
+
+p {
+  color: #FFFFFF; /* Texto secundario en blanco */
+}
