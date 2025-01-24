@@ -78,11 +78,11 @@ const ContactPage = () => {
               flexGrow: 1,
             }}
           >
-            Email: igsclynch@gmail.com
+            Email: igslynch@gmail.com
           </Typography>
           <Button
             variant="contained"
-            href="mailto:igsclynch@gmail.com"
+            href="mailto:igslynch@gmail.com"
             sx={{
               backgroundColor: "#A0522D",
               "&:hover": { backgroundColor: "#8B4513" },
